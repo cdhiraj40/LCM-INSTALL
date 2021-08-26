@@ -10,11 +10,11 @@ LCM is a set of libraries and tools for message passing and data marshalling,aim
 
 ## Installation
 
-#LINUX
-#DEBIAN(UBUNTU)
+# LINUX
+# DEBIAN(UBUNTU)
 1-Installing git
-'''
+```
 apt-get install git
-'''
+```
 
 
