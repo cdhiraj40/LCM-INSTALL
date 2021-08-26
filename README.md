@@ -8,10 +8,10 @@ LCM is a set of libraries and tools for message passing and data marshalling,aim
 * [LCM Python Initialization](https://lcm-proj.github.io/tut_python.html)
 
 
-## Installation
+# INSTALLATION
 
-# LINUX
-# DEBIAN(UBUNTU)
+## LINUX
+## DEBIAN(UBUNTU)
 1-Installing git
 ```
 apt-get install git
