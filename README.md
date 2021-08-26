@@ -41,8 +41,7 @@ sudo make install
 ```
 7 - Installing python dev
 ```
- sudo apt-get install python-dev
-sudo apt-get install python3-dev
+ sudo apt-get install python-dev && sudo apt-get install python3-dev
 ```
 8- Installing LCM
 ```
