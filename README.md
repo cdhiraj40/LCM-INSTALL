@@ -50,4 +50,4 @@ cd ..
 cd lcm-python
 sudo python3 setup.py install
 ```
-LCM IS INSTALLED! HAPPY CODE :)
+LCM IS INSTALLED! HAPPY CODING :)
