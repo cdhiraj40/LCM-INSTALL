@@ -16,5 +16,37 @@ LCM is a set of libraries and tools for message passing and data marshalling,aim
 ```
 apt-get install git
 ```
-
-
+2-Downloading Glib and Cmake
+```
+sudo apt update && sudo apt install build-essential g++ libglib2.0-dev cmake
+```
+3-Cloning the main [LCM]((https://github.com/lcm-proj/lcm/releases)) Repo
+```
+git clone https://github.com/lcm-proj/lcm.git
+```
+4- Creating directory build
+```
+cd lcm
+mkdir build
+cd build
+```
+5- Cmake
+```
+cmake ..
+```
+6 - Installing make
+```
+make
+sudo make install
+```
+7 - Installing python dev
+```
+ sudo apt-get install python-dev
+sudo apt-get install python3-dev
+```
+8- Installing LCM
+```
+cd ..
+cd lcm-python
+sudo python3 setup.py install
+```
