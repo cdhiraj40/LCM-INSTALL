@@ -14,7 +14,7 @@ LCM is a set of libraries and tools for message passing and data marshalling,aim
 ## DEBIAN(UBUNTU)
 1-Installing git
 ```
-apt-get install git
+sudo apt-get install git
 ```
 2-Downloading Glib and Cmake
 ```
