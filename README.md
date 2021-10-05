@@ -49,4 +49,31 @@ cd ..
 cd lcm-python
 sudo python3 setup.py install
 ```
+
+## ARCH LINUX
+
+# BUILDING PACKAGE MANUALLY FROM AUR
+
+1-Installing git and base-devel package
+```
+sudo pacman -Sy git base-devel
+```
+2- Cloning repo from AUR
+```
+git clone https://aur.archlinux.org/lcm-git.git
+```
+3- Changing directory to lcm
+```
+cd lcm
+```
+4- Building package (will install required dependencies automatically)
+```
+makepkg -si
+```
+5- Installing the built package using pacman
+```
+sudo pacman -U lcm-git.xxxx.pkg.tar.zx
+```
+# USING AUR-HELPERS
+
 LCM IS INSTALLED! HAPPY CODING :)
