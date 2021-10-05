@@ -73,7 +73,7 @@ makepkg -si
 ```
 sudo pacman -U lcm-git.xxxx.pkg.tar.zx
 ```
-# USING AUR HELPER
+## USING AUR HELPER
 Refer to https://wiki.archlinux.org/title/AUR_helpers for installing aur helpers
 
 1 - Installing lcm using yay or any other aur helper
