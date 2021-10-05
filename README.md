@@ -51,7 +51,7 @@ sudo python3 setup.py install
 ```
 
 ## ARCH LINUX
-# BUILDING PACKAGE MANUALLY FROM AUR
+## BUILDING PACKAGE MANUALLY FROM AUR
 
 1-Installing git and base-devel package
 ```
