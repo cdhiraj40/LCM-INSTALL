@@ -87,4 +87,4 @@ peru -S lcm
 ```
 
 
-LCM IS INSTALLED! HAPPY CODING :)
+LCM is installed! Happy Coding :)
